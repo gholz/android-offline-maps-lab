@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomTilesLab</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_download">Download</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_offline">Offline</string>
+    <string name="button_online">Online</string>
+    <string name="button_center">Center</string>
+</resources>
